@@ -2,7 +2,10 @@
 % Rev 2.0, April 2025
 % Developed By Prof. Adel Ben Abdennourclear variables;
 % ayhem123@yahoo.com
-
+% Citation: BenAbdennour, A. 
+% An Enhanced Team-Oriented Swarm Optimization Algorithm (ETOSO) for
+% Robust and Efficient High-Dimensional Search. 
+% Biomimetics 2025,10, 222. https://doi.org/10.3390/biomimetics10040222
 
 %
 % Objective:
